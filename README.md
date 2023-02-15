@@ -28,8 +28,9 @@ GeoCoder geoCoder = GeoCoder();
 ### getAddressFromLatLng
 ```dart
 Address address = await geoCoder.getAddressFromLatLng(
-    latitude: 37.4219999,
-    longitude: 32.0840575
+latitude: 37.4219999,
+longitude: 32.0840575,
+lang: Locale.en,
 );
 ```
 
