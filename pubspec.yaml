@@ -1,0 +1,19 @@
+name: geocoding_resolver
+description: Package to translate geographic coordinates into an address and vice versa.
+version: 0.0.2
+homepage: https://github.com/ahmedsaleh210/geocoding_resolver.git
+repository: https://github.com/ahmedsaleh210/geocoding_resolver.git
+
+environment:
+  sdk: '>=2.19.0 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
