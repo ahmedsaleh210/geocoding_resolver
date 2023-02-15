@@ -1,5 +1,5 @@
 # GeoCoding Resolver
-[![pub package](https://img.shields.io/pub/v/geocodeing_resolver.svg)](https://pub.dev/packages/geocoding_resolver)
+[![pub package](https://img.shields.io/pub/v/geocoding_resolver.svg)](https://pub.dev/packages/geocoding_resolver)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![stars](https://img.shields.io/github/stars/ahmedsaleh210/geocoding_resolver)
 
