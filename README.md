@@ -1,7 +1,7 @@
 # GeoCoding Resolver
-[![pub package](https://img.shields.io/pub/v/geocodeing_resolver.svg)](https://pub.dev/packages/geocodeing_resolver)
+[![pub package](https://img.shields.io/pub/v/geocodeing_resolver.svg)](https://pub.dev/packages/geocoding_resolver)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![stars](https://img.shields.io/github/stars/ahmedalaa-ahmed/geocodeing_resolver)
+![stars](https://img.shields.io/github/stars/ahmedsaleh210/geocoding_resolver)
 
 Flutter Package that provides methods for converting between geographic coordinates and addresses.
 
