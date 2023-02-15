@@ -8,7 +8,7 @@ Flutter Package that provides methods for converting between geographic coordina
 ## Features
 * Reverse geocoding: The library provides methods to get the address of a given geographic coordinate.
 * Address suggestions: The library provides methods to get address suggestions for a given address.
-* Support for multiple languages: The methods accept an optional Locale parameter, which can be used to specify the language in which the address information should be retrieved. The default language is English.
+* Support for multiple languages: The methods accept an optional Locale parameter, which can be used to specify the language in which the address information should be retrieved. The default language is English. 
 * Support for multiple address formats: The methods accept an optional AddressFormat parameter, which can be used to specify the address format in which the address information should be retrieved.
 
 ## Installation
