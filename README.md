@@ -17,7 +17,7 @@ Add this to your package's pubspec.yaml file:
 
 ```yaml
 dependencies:
-  geocodeing_resolver: <lastest>
+  geocoding_resolver: <lastest>
 ```
 ## Usage
 The GeoCoder class is implemented as a singleton, with a factory constructor that returns the same instance of the class every time it is called.
