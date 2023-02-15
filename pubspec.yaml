@@ -1,6 +1,6 @@
 name: geocoding_resolver
 description: Package to translate geographic coordinates into an address and vice versa.
-version: 0.0.3+1
+version: 0.0.3+2
 homepage: https://github.com/ahmedsaleh210/geocoding_resolver.git
 repository: https://github.com/ahmedsaleh210/geocoding_resolver.git
 
